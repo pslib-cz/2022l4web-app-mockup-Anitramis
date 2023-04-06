@@ -22,3 +22,6 @@ Představme si, že uživatel chce vsadit na cenu Bitcoinu, která se momentáln
 ## Závěr
 
 Tato aplikace nabízí uživatelům zábavnou a potenciálně výhodnou možnost vsadit na pohyb cen kryptoměn v krátkodobém časovém horizontu. Pokud by byla správně navržena a implementována, může být tato aplikace velmi užitečným nástrojem pro obchodníky s kryptoměnami.
+
+
+Propojení přes API bybit, dále nadizajnování aplikace. Aplikace bude mobile first.
