@@ -36,7 +36,7 @@ Tato aplikace nabízí uživatelům zábavnou a potenciálně výhodnou možnost
 - GET /v5/market/mark-price-kline?category=linear&symbol=BTCUSDT&interval=15&start=1670601600000&end=1670608800000&limit=1 HTTP/1.1
 Host: api-testnet.bybit.com
 
-- `{
+- `{`
     "retCode": 0,
     "retMsg": "OK",
     "result": {
@@ -44,7 +44,7 @@ Host: api-testnet.bybit.com
         "category": "linear",
         "list": [
             [
-            "1670608800000",
+ -           `"1670608800000",`
             "17164.16",
             "17164.16",
             "17121.5",
@@ -55,7 +55,7 @@ Host: api-testnet.bybit.com
     "retExtInfo": {},
     "time": 1672026361839
  }
-	`
+	
 ## Testování aplikace
 - Pro realné využití je potřeba zjistit na DEMO aplikaci, zda klienti budou více prohrávat či vyhrávat.
 - Pokud více prohrávají, je možnost nasadit aplikaci do realného provozu, protože výhry klientů se vyplácí z proher ostatních klientů.
