@@ -68,5 +68,12 @@ Host: api-testnet.bybit.com
 - 30s = kurz 1.5
 - 60s = kurz 2.0
 
+## Dizajn aplikace
+- Aplikace má jednoduchý vzhled pro co nejvíce individzální použití.
+- Do aplikace je možný přístup až po přihlášení.
+- V nastavení profilu je možnost VKLADU a VÝBĚRU.
+- Dále je v profilu vidět historie zisků s ztrát.
+
+
 
 
