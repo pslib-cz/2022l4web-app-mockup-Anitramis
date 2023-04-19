@@ -73,7 +73,7 @@ Host: api-testnet.bybit.com
 - Do aplikace je možný přístup až po přihlášení.
 - V nastavení profilu je možnost VKLADU a VÝBĚRU.
 - Dále je v profilu vidět historie zisků s ztrát.
-
+- zpracování designu - https://www.figma.com/file/yIQMG45BMBjEDDWGqzDNtZ/mockup?node-id=0%3A1&t=qRh0OQrHwCfPeQmK-1
 
 
 
