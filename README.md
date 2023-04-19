@@ -37,24 +37,24 @@ Tato aplikace nabízí uživatelům zábavnou a potenciálně výhodnou možnost
 Host: api-testnet.bybit.com
 
 - {
-    "retCode": 0,
-    "retMsg": "OK",
-    "result": {
-        "symbol": "BTCUSDT",
-        "category": "linear",
-        "list": [
-            [
-            "1670608800000",
-            "17164.16",
-            "17164.16",
-            "17121.5",
-            "17131.64"
-            ]
-        ]
-    },
-    "retExtInfo": {},
-    "time": 1672026361839
-}
+-    "retCode": 0,
+-    "retMsg": "OK",
+-    "result": {
+-        "symbol": "BTCUSDT",
+-        "category": "linear",
+-        "list": [
+-            [
+-            "1670608800000",
+-            "17164.16",
+-            "17164.16",
+-            "17121.5",
+-            "17131.64"
+-            ]
+-        ]
+-    },
+-    "retExtInfo": {},
+-    "time": 1672026361839
+- }
 
 ## Testování aplikace
 - Pro realné využití je potřeba zjistit na DEMO aplikaci, zda klienti budou více prohrávat či vyhrávat.
