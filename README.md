@@ -62,4 +62,11 @@ Host: api-testnet.bybit.com
 - Dále je za potřebá nastavit možnost v kladu za pomocí platební karty a výběru na bankovní účet.
 - Neobchoduje se přímo na burze, tudíž z ní získáváme pouze data trhu pro stanovení podmínek dané sázky.
 
+## Nastavení kurzu
+- Ke zvolenému časovému úseků patří daný kurzu sázky.
+- 10s = kurz 1.2
+- 30s = kurz 1.5
+- 60s = kurz 2.0
+
+
 
