@@ -30,6 +30,8 @@ Tato aplikace nabízí uživatelům zábavnou a potenciálně výhodnou možnost
 - Nastavení SYMBOL je libovolné na klientovy
 - Pri otevření sázky aplikace počítá s hodnotou > list[1]: openPrice	string	Open price
 - Po uzavření se porovnává Open price s > list[4]: closePrice	string	Close price
+- zde je možnost vygenerování zdrojového kódu https://bybit-exchange.github.io/docs/api-explorer/v5/market/kline
+- nastaví se zde category: linear, symbol: BTCUSD, interval: 1/3/5 (podle nastavení aplikace v daný moment)
 
 ### Příklad nastavení
 
